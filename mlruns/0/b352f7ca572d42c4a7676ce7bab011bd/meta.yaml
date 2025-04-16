@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eleff/Downloads/MLOps_projet_1/mlruns/0/b352f7ca572d42c4a7676ce7bab011bd/artifacts
+end_time: 1744830090334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b352f7ca572d42c4a7676ce7bab011bd
+run_name: big-bear-931
+run_uuid: b352f7ca572d42c4a7676ce7bab011bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744830084174
+status: 4
+tags: []
+user_id: eleff
